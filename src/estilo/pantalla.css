@@ -1,0 +1,9 @@
+.input{
+    height: 75px;
+    width: 200px;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    font-size:30px;
+    border: 2px solid rgb(29, 31, 29);
+}

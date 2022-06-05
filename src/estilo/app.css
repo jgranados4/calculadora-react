@@ -1,0 +1,19 @@
+.App{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor-calculadora{
+    background-color:rgb(210, 213, 217);
+    width:400px;
+    height:600px;
+    border: 2px solid  rgb(9, 9, 13);
+    border-radius: 5px;
+}
+.fila{
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
