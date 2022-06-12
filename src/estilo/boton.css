@@ -13,3 +13,6 @@
     user-select: none;
     cursor:pointer;
 }
+.boton-contenedor:hover{
+    background-color: rgb(7, 7, 173);
+}
